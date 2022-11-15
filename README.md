@@ -2,7 +2,7 @@
 
 I am a software engineer with 7+ years of experience at companies such as Microsoft, Red Hat, SAS, etc. My interests are broad and wide but mostly center around algorithms and designing big systems. I also believe in strong communication and a healthy work culture when it comes to creating effective software teams.
 
-I'm currently on my sabbatical year but am also taking software contracts that interest me. Feel free to contact me here if you're interested in working together!
+I'm currently on my sabbatical year but am also taking on software jobs/projects that interest me. Feel free to contact me here if you're interested in working together!
 
 <!--
 **andyPark/andyPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
