@@ -1,9 +1,5 @@
 # I am Andy Park
 
-I am a software engineer with 7+ years of experience at companies such as Microsoft, Red Hat, SAS, etc. My interests are broad and eclectic but mostly center around algorithms, designing big systems as well as front end development. I also believe in strong communication and a healthy work culture when it comes to creating effective software teams.
-
-I'm currently on my sabbatical year but am also taking on software projects that interest me. Feel free to contact me here if you're interested in working together!
-
 <!--
 **andyPark/andyPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
